@@ -217,6 +217,7 @@ ul#nav li.current a { color: #F06000; }
 #about .download {
    width: 58.33333%;
    padding-top: 6px;
+   display: none;
 }
 #about .main-col { padding-right: 5%; }
 #about .download .button {
@@ -416,6 +417,7 @@ ul#nav li.current a { color: #F06000; }
    background: #ebeeee;
    padding-top: 90px;
    padding-bottom: 60px;
+   display: none;
 }
 #portfolio h1 {
    font: 15px/24px 'opensans-semibold', sans-serif;
