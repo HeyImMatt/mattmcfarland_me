@@ -52,12 +52,15 @@ header .banner {
    vertical-align: middle;
    margin: 0 auto;
    width: 85%;
-   padding-bottom: 30px;s
+   padding-bottom: 30px;
    text-align: center;
 }
 
 header .banner-text {
-  width: 100%;
+   background: rgba(0, 0, 0, 0.4);
+   border-radius: 10px;
+   width: 100%;
+   padding: 15px 0px 5px 0px;
 }
 header .banner-text h1 {
    font: 90px/1.1em 'opensans-bold', sans-serif;
@@ -386,7 +389,7 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
-@-webkit-keyframes  {
+@-webkit-keyframes  skill2 {
   0%   { width: 0px;  }
   100% { width: 55%;  }
 }
